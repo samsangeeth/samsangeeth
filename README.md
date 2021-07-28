@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samsangeeth&layout=compact&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samsangeeth&layout=compact&theme=synthwave)
 
-![Sams's github stats](https://github-readme-stats.vercel.app/api?username=samsangeeth&theme=merko)
+![Sams's github stats](https://github-readme-stats.vercel.app/api?username=samsangeeth&theme=synthwave)
