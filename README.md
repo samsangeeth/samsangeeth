@@ -1,6 +1,6 @@
 <h1 align="center">Hey There!👋, I'm Sam</h1>  <p align="center">
 
-- :computer:  I'm currently working at BigBinary
+- :computer:  I'm currently working at HeyMarvin
 - :hourglass_flowing_sand:  Exploring the world of Automation and Testing
 - :rocket:  Always ready to learn new technologies
 - :man_technologist:  Working as an Automation Engineer at the moment
